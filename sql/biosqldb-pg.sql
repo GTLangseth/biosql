@@ -41,8 +41,8 @@
 -- etc) do support specifying a schema, as does load_ncbi_taxonomy.pl.
 -- If you want to use Biosql with a specific schema uncomment this:
 
-CREATE SCHEMA biosql; 
-SET search_path to biosql;
+-- CREATE SCHEMA biosql; 
+-- SET search_path to biosql;
 
 --
 -- The Biosql database has bioentries. That is about it. 
